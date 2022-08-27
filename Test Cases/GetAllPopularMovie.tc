@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetAllPopularMovie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dea1a3bb-c346-4512-9178-72184e360ca9</testCaseGuid>
+</TestCaseEntity>
